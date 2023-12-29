@@ -1,0 +1,3 @@
+@extends('tablar::index.mensagemsucesso')
+
+
